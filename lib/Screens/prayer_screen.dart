@@ -11,9 +11,9 @@ class Home extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        backgroundColor: Colors.green,
+        backgroundColor: Colors.pink,
         title: Text("Prayer Time",
-          style: TextStyle(fontSize: 25,
+          style: TextStyle(fontSize: 30,
             fontWeight: FontWeight.bold,
             color: Colors.white,
           ),
